@@ -1,0 +1,19 @@
+{
+  "name": "Мои 1000 испытаний",
+  "short_name": "1000 испытаний",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "description": "Список испытаний, хобби и приключений с отметками прогресса.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
